@@ -1,5 +1,7 @@
 # heal_music
 
+## 介绍
+模仿网易云app
 ## Project setup
 ```
 npm install
